@@ -55,4 +55,7 @@ pip install -r requirements.txt
 * main.py - This is the main function we need to run
 * Employee.csv - It contains the details of Employees (Employee_No, First_Name, Last_Name, Email)
 * Dataset - Images of the employees according to their Employee_No as folder name (for Employee_No = 1 it is Person1)
-* axxx-xxxx-firebase-adminsdk-xxxxx-xxxxxxxxxx.json - This is the sdk json file 
+* axxx-xxxx-firebase-adminsdk-xxxxx-xxxxxxxxxx.json - This is the sdk json file
+
+## Refereneces 
+My own B.tech project under the guidance of Dr. Swarup Kumar Ghosh (SNU)
