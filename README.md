@@ -1,4 +1,4 @@
-# AFRAS (Automated Face Recognition Attendance System)
+# Automated Attendance Tracker using Facial Recognition
 
 This is a face recognition based attendance system that can automatically mark attendance by recognizing faces from a camera feed.
 
