@@ -50,3 +50,8 @@ pip install -r requirements.txt
 * Firebase Realtime Database
 * Tkinter
 * email.mime
+
+## File Guide 
+* main.py - This is the main function we need to run
+* Employee.csv - It contains the details of Employees (Employee_No, First_Name, Last_Name, Email)
+* Dataset - Images of the employees according to their Employee_No as folder name (for Employee_No = 1 it is Person1)
