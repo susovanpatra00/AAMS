@@ -58,4 +58,4 @@ pip install -r requirements.txt
 * axxx-xxxx-firebase-adminsdk-xxxxx-xxxxxxxxxx.json - This is the sdk json file
 
 ## Refereneces 
-My own B.tech project under the guidance of Dr. Swarup Kumar Ghosh (SNU)
+My own B.tech project named AAMS. Guide - Dr. Swarup Kumar Ghosh (SNU)
