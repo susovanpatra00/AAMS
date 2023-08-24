@@ -45,7 +45,8 @@ pip install -r requirements.txt
 * Additional modules like SMS notifications can be added easily but I have used email as it is more professional
 
 ## Resources
-OpenCV
-face_recognition
-Firebase Realtime Database
-Tkinter
+* OpenCV
+* face_recognition
+* Firebase Realtime Database
+* Tkinter
+* email.mime
