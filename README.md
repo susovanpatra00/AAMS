@@ -10,14 +10,14 @@ Sends email notifications to employees when their attendance is marked
 User interface built with Tkinter for starting, stopping and exiting the system
 
 ## Requirements
-Python 3.x
-OpenCV
-face_recognition
-Tkinter
-PIL
-pandas
-firebase_admin
-Credentials JSON for Firebase project
+* Python 3.x
+* OpenCV
+* face_recognition
+* Tkinter
+* PIL
+* pandas
+* firebase_admin
+* Credentials JSON for Firebase project
 
 
 ## Usage
